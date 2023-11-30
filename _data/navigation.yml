@@ -1,0 +1,65 @@
+# main links
+main:
+  - title: "Home"
+    url: https://lrozlo.github.io/
+  - title: "About"
+    url: /about/ #_pages/about.md 연결
+  - title: "GitHub"
+    url: https://github.com/Lrozlo
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # 카테고리 기능이 필요하면 활성화 하기 (_pages/categories-archive.md 연결)
+  # - title: "Categories"
+  #   url: /categories/
+
+sidebar navigation (categories)
+2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "C++"
+    url: /categories/cpp/
+  - title: "Python"
+    url: /categories/python/
+  - title: "DB"
+    url: /categories/db/
+  - title: "Categories4"
+    url: /categories/categories4/
+
+# sidebar navigation (categories)
+# 2022.09.24 sidebar ver2.0 : main-sub version
+# categories:
+#   - title: "Programming"
+#     children:
+#       - title: "C++"
+#         url: /categories/C++/
+#       - title: "Categories2"
+#         url: /categories/categories2/
+#       - title: "Categories3"
+#         url: /categories/categories3/
+#       - title: "Categories4"
+#         url: /categories/categories4/
+
+#   - title: "Title2"
+#     children:
+#       - title: "Categories5"
+#         url: /categories/categories5/
+#       - title: "Categories6"
+#         url: /categories/categories6/
+
+#   - title: "Title3"
+#     children:
+#       - title: "Categories7"
+#         url: /categories/categories7/
+
+
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
