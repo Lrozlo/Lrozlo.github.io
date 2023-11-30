@@ -3,7 +3,7 @@ title: "블로그 테스트"
 excerpt: "첫 블로그 포스트"
 
 categories:
-  - C++
+  - Categories1
 tags:
   - [tag1]
 
