@@ -21,6 +21,12 @@ categories:
     url: /categories/cpp/
   - title: "Python"
     url: /categories/python/
+  - title: "DB"
+    url: /categories/database/
+  - title: "Figma"
+    url: /categories/figma/
+  - title: "Algorithm"
+    url: /categories/algorithm/
 
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
