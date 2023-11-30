@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1]
 
-permalink: /categories/myfirstpost/
+permalink: /categories1/myfirstpost/
 
 toc: true
 toc_sticky: true
