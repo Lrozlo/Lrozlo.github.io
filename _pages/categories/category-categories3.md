@@ -1,7 +1,7 @@
 ---
 title: "DB"
 layout: category
-permalink: /categories/db/
+permalink: /categories/categories3/
 author_profile: true
 taxonomy: Categories3
 sidebar:
