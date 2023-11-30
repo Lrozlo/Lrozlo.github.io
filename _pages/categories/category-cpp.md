@@ -3,7 +3,7 @@ title: "C++"
 layout: category
 permalink: /categories/cpp/
 author_profile: true
-taxonomy: Cpp
+taxonomy: C++
 sidebar:
   nav: "categories"
 ---
