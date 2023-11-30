@@ -3,11 +3,11 @@ title: "블로그 테스트"
 excerpt: "첫 블로그 포스트"
 
 categories:
-  - Categories1
+  - C++
 tags:
   - [tag1]
 
-permalink: /categories1/myfirstpost/
+permalink: /cpp/myfirstpost/
 
 toc: true
 toc_sticky: true
