@@ -1,5 +1,5 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
+title: "Python 예시 포스트"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
@@ -7,13 +7,13 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /python/post-name-here-2/
+permalink: /python/example2/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2023-11-30
+last_modified_at: 2023-11-30
 ---
 
 ## 🦥 본문
