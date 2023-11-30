@@ -18,13 +18,9 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "C++"
-    url: /categories/categories1/
+    url: /categories/cpp/
   - title: "Python"
-    url: /categories/categories2/
-  - title: "DB"
-    url: /categories/categories3/
-  - title: "Figma"
-    url: /categories/categories4/
+    url: /categories/python/
 
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
