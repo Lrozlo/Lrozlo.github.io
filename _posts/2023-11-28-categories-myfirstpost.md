@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1]
 
-permalink: /C++/myfirstpost/
+permalink: /categories/myfirstpost/
 
 toc: true
 toc_sticky: true
