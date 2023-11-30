@@ -1,7 +1,7 @@
 ---
 title: "C++"
 layout: category
-permalink: /categories/C++/
+permalink: /categories/categories1/
 author_profile: true
 taxonomy: Categories1
 sidebar:
