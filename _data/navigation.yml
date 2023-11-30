@@ -10,10 +10,7 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  # 카테고리 기능이 필요하면 활성화 하기 (_pages/categories-archive.md 연결)
-  # - title: "Categories"
-  #   url: /categories/
-
+# 카테고리 기능이 필요하면 활성화 하기 (_pages/categories-archive.md 연결)
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
