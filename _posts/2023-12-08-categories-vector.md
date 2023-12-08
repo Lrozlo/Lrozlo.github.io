@@ -16,7 +16,7 @@ date: 2023-12-08
 last_modified_at: 2023-12-08
 ---
 # std::vector
-  - #include <vector> 로 사용가능
+  - #include \<vector> 로 사용가능
   - 실행시간에 길이 조정이 가능한 컨테이너 
   - 원소를 메모리에 연속해서 저장
   - 포인터 산술연산 지원
