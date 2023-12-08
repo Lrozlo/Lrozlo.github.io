@@ -35,7 +35,7 @@ last_modified_at: 2023-12-08
         
       → 둘 다 컨테이너의 임의의 지점에서 매우 빠르게 접근하도록 최적화 되어 있음
 
-  * **associative container**
+  * ### associative container
 
     + **key - value 쌍으로 구성된 컨테이너, 주어진 key에 대한 value를 제공**
 
