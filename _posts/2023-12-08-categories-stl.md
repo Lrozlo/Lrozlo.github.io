@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /cpp/example1/
+permalink: /cpp/stl/
 
 toc: true
 toc_sticky: true
