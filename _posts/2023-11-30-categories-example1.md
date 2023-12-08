@@ -35,7 +35,7 @@ last_modified_at: 2023-12-08
         
       → 둘 다 컨테이너의 임의의 지점에서 매우 빠르게 접근하도록 최적화 되어 있음
 
-  * ### associative container
+  * **associative container**
 
     + **key - value 쌍으로 구성된 컨테이너, 주어진 key에 대한 value를 제공**
 
@@ -45,7 +45,7 @@ last_modified_at: 2023-12-08
 
       - ordered associative container의 접근 시간 : 원소의 개수에 대해 log함수로 증가
       - unordered associative container의 접근 시간 : 일정(크기와 관계 없음)
-    + #### ordered associative container
+    + **<span style="color:blue">ordered associative container</span>**
       - std::set
       - std::map
       - std::multiset
@@ -58,7 +58,7 @@ last_modified_at: 2023-12-08
         *map의 속성은 vector와 비슷
 				-> 연관 컨테이너 사용하는 경우 95프로는 key기준 정렬하는 map으로 충분*
 
-    + #### unordered associative container
+    + **<span style="color:blue">unordered associative container</span>**
       - std::unordered_set
 
       - std::unordered_map
