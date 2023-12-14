@@ -100,8 +100,7 @@ public class BootSpringBootApplication {
 
 사진크기조절
 
-<centor><img src="/assets/images/포항갈매기사진.jpeg" width="50%" height="50%"></centor>
-
+<img src="/assets/images/감자1.jpeg" width=50% height=50%>
 
 - 아
   * 에

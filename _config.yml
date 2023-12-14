@@ -98,8 +98,8 @@ analytics:
 # Site Author
 author:
   name: "Lrozlo" # 블로그 닉네임
-  avatar: "/assets/images/포항갈매기사진.jpeg" # 블로그 프로필 사진
-  #   bio              : "hi all!"
+  avatar: "/assets/images/감자1.jpeg" # 블로그 프로필 사진
+  # bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "skdud3901@naver.com"
 
