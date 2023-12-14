@@ -98,9 +98,9 @@ public class BootSpringBootApplication {
 
 ![image](/assets/images/포항갈매기사진.jpeg)
 
-사진크기조절
 
-<centor><img src="https://github.com/Lrozlo/Lrozlo.github.io/blob/main/assets/images/감자1.jpeg" width=50% height=50%></centor>
+
+![image](/assets/images/감자1.jpeg)
 
 - 아
   * 에
