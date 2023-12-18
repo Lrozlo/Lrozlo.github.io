@@ -58,9 +58,8 @@ __강조된__
 <pre>
 <code>
 이렇게도 코드 입력가능  
-</pre>
 </code>
-
+</pre>
 
 ```cpp
 #include <string>
@@ -76,7 +75,6 @@ public class BootSpringBootApplication {
   }
 }
 ```
-
 
 ## 인용문
 >인용문1
