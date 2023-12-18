@@ -20,11 +20,12 @@ last_modified_at: 2023-12-18
 
   2. @import를 이용하여 main.scss에 붙여넣는다.<br>
   파일 경로 : assets > css > main.scss
+
     ```scss
       @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
     ```
 
-  3. 새로운 폰트 이름 '**Noto Serif KR**' 을 $sans-serif, $menufont **맨 앞**에 추가한다.<br>파일 경로 : _sass > minimal-mistakes > _variables.scss 
+  4. 새로운 폰트 이름 '**Noto Serif KR**' 을 $sans-serif, $menufont **맨 앞**에 추가한다.<br>파일 경로 : _sass > minimal-mistakes > _variables.scss 
   
     ```scss
       /* system typefaces */
