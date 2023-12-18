@@ -27,7 +27,7 @@ last_modified_at: 2023-12-18
   ```
 
   ### 3. 
-  새로운 폰트 이름 '**Noto Serif KR**' 을 $sans-serif **맨 앞**에 추가한다.
+  새로운 폰트 이름 '**Noto Serif KR**' 을 $sans-serif, $menufont **맨 앞**에 추가한다.
     
   파일 경로 : _sass > minimal-mistakes > _variables.scss 
   ```scss
@@ -36,6 +36,11 @@ last_modified_at: 2023-12-18
     /* font change */
     $sans-serif: 'Noto Serif KR', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', "Montserrat", "Pretendard", "Merriweather", sans-serif !default;
     $monospace: "Fira Mono", "Pretendard", Monaco, Consolas, "Lucida Console", monospace !default;
+
+    /* sans serif typefaces */
+    $sans-serif-narrow: $sans-serif !default;
+    $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+    $menufont: "Noto Serif KR", -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', "Montserrat", "BioRhyme", "Pretendard", sans-serif !default;
   ```
 
   
