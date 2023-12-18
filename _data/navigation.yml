@@ -24,6 +24,8 @@ categories:
     url: /categories/figma/
   - title: "Algorithm"
     url: /categories/algorithm/
+  - title: "Github"
+    url: /categories/github/
 
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
