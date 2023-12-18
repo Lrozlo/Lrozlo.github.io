@@ -1,5 +1,5 @@
 ---
-title: "블로그 테스트"
+title: "마크다운 문법"
 excerpt: "첫 블로그 포스트"
 
 categories:
