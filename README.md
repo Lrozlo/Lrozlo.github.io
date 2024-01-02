@@ -1,4 +1,5 @@
-# Lrozlo.github.io
-my blog
+# Lrozlo's Blog
+
+Hi, I'm Lrozlo.
 
 https://lrozlo.github.io

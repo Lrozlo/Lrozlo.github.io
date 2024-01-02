@@ -1,21 +1,21 @@
 ---
-title: "블로그 테스트"
+title: "마크다운 문법"
 excerpt: "첫 블로그 포스트"
 
 categories:
-  - C++
+  - Github
 tags:
-  - [tag1]
+  - [markdown, blog, github]
 
-permalink: /cpp/myfirstpost/
+permalink: /github/myfirstpost/
 
 toc: true
 toc_sticky: true
 
 date: 2023-11-28
-last_modified_at: 2023-11-28
+last_modified_at: 2023-12-18
 ---
-
+# 마크다운 문법
 ## 📒 안녕하세요  
 블로그에 글 잘 올라가나 테스트 해보려구요. <br> 이렇게 줄 바꿈도 해보고
 
@@ -58,9 +58,8 @@ __강조된__
 <pre>
 <code>
 이렇게도 코드 입력가능  
-</pre>
 </code>
-
+</pre>
 
 ```cpp
 #include <string>
@@ -77,7 +76,6 @@ public class BootSpringBootApplication {
 }
 ```
 
-
 ## 인용문
 >인용문1
 >>인용문2
@@ -90,15 +88,15 @@ public class BootSpringBootApplication {
 ---
 
 ## 링크
+
 <https://ansohxxn.github.io/blog/markdown/>
+
 [Google](https://google.com, "google link")
 
 
 ## 이미지 첨부
 
 ![image](/assets/images/포항갈매기사진.jpeg)
-
-
 
 ![image](/assets/images/감자1.jpeg)
 
