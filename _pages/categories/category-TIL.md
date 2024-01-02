@@ -1,9 +1,9 @@
 ---
-title: "Figma"
+title: "TIL"
 layout: category
-permalink: /categories/figma/
+permalink: /categories/TIL/
 author_profile: true
-taxonomy: Figma
+taxonomy: TIL
 sidebar:
   nav: "categories"
 ---
