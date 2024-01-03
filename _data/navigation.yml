@@ -14,14 +14,14 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "TIL"
+    url: /categories/TIL/
   - title: "C++"
     url: /categories/cpp/
   - title: "Python"
     url: /categories/python/
   - title: "DB"
     url: /categories/database/
-  - title: "TIL"
-    url: /categories/TIL/
   - title: "Algorithm"
     url: /categories/algorithm/
   - title: "Github"
