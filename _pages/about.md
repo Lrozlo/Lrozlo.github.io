@@ -6,8 +6,8 @@ comments: false
 ---
 
 ## 👐 About me
-- Major in Computer Science & Engineering
-- Interested in Cloud Computing
+
+-   Major in Computer Science & Engineering
 
 ## 🛠️ Tech Stack
 
@@ -17,8 +17,5 @@ comments: false
 <img src="https://img.shields.io/badge/Matlab-3670A0?style=for-the-badge&logoColor=ffdd54"/>
 
 ## 💻 Github
+
 <a href = "https://github.com/lrozlo"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrozlo&show_icons=true)
-
