@@ -31,6 +31,7 @@ teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                   : # 블로그명 앞에 로고 추가하고 싶을 경우 사용 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
+future: true # future-dated posts will be published when true
 words_per_minute: 200
 comments:
     provider: "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
